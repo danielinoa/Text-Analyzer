@@ -23,5 +23,3 @@ After the text has been extracted the user has the option to apply one of the di
 
 3) Searching...
 The application provides search functionality where user has the option to look up certain words or patterns present in the text. If the search input matches any pattern or word in the text then this will be shown by highlighting the that word/pattern in the text. The search box is located in the lower right of application.
-
-![](https://github.com/danielinoa/Text-Analyzer/blob/master/User%20Guides%20And%20Information/TextAnalyzerPic.png?raw=true)
