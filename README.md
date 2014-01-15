@@ -4,7 +4,7 @@ Text-Analyzer
 ![](https://github.com/danielinoa/Text-Analyzer/blob/master/User%20Guides%20And%20Information/TextAnalyzerPic.png?raw=true)
 
 
-Text-Analyzer is designed with the purpose of helping scholars/users to make simple analysis and extract analytic’s metrics on text the consider relevant for scrutinization. This helps the user get specific information about a certain text article from a different perspective. TextAnalyzer works by taking extracting text and portraying things like the words that are presented in that text. This representation could be sorted based on alphabetical order, the length of the words in the text, or even based on how many times a word is present in the text.
+Text-Analyzer was designed with the purpose of helping scholars/users to make simple analysis and extract analytic’s metrics on text the consider relevant for scrutinization. This helps the user get specific information about a certain text article from a different perspective. TextAnalyzer works by taking extracting text and portraying things like the words that are presented in that text. This representation could be sorted based on alphabetical order, the length of the words in the text, or even based on how many times a word is present in the text.
 
 Instructions:
 
